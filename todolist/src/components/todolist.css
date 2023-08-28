@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap');
+
+.todolist {
+    text-align: center ;
+    margin: 6px;
+    padding: 6px;
+}
+.todolist li{
+    padding: 1.5px;
+    list-style-type:disc;
+    font-size: 25px;
+    font-family: 'Caveat', cursive;
+    
+}

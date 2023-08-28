@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: #000000;
+    background-color: #feff8b;
+    opacity: 1;
+    background-image:  radial-gradient(#ff0000 1.6500000000000001px, transparent 1.6500000000000001px), radial-gradient(#ff0000 1.6500000000000001px, #feff8b 1.6500000000000001px);
+    background-size: 66px 66px;
+    background-position: 0 0,33px 33px;
+}
+.container{
+    background-color: #e5e5f7;
+    opacity: 1;
+    background-size: 34px 34px;
+    background-image:  repeating-linear-gradient(0deg, #ff0000, #ff0000 1.7000000000000002px, #ffffff 1.7000000000000002px, #ffffff);
+    margin-top: 2rem;
+    border: 2px solid transparent;
+    border-radius: 20px;
+    min-height: 500px;
+    min-width: 350px;
+    padding: 0.7rem;
+    box-shadow: 3px 4px 7px black;
+
+}
+.container h1{
+    text-align: center; 
+}
